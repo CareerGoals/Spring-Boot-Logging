@@ -1,0 +1,14 @@
+2023-04-16 10:08:54 [main] INFO  c.c.g.s.l.SpringBootLoggingDemoApplication -
+				Starting SpringBootLoggingDemoApplication using Java 17.0.4 on AJAYs-MacBook-Pro.local with PID 4162 (/Users/ajaysharma/Desktop/shradha/STS Project/spring-boot-logging-demo/target/classes started by ajaysharma in /Users/ajaysharma/Desktop/shradha/STS Project/spring-boot-logging-demo)
+2023-04-16 10:08:54 [main] DEBUG c.c.g.s.l.SpringBootLoggingDemoApplication -
+				Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-16 10:08:54 [main] INFO  c.c.g.s.l.SpringBootLoggingDemoApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2023-04-16 10:08:55 [main] INFO  c.c.g.s.l.SpringBootLoggingDemoApplication -
+				Started SpringBootLoggingDemoApplication in 1.39 seconds (JVM running for 2.256)
+2023-04-16 10:09:14 [http-nio-8080-exec-3] DEBUG c.c.g.s.l.SpringBootLoggingDemoApplication -
+				Request test
+2023-04-16 10:09:14 [http-nio-8080-exec-3] DEBUG c.c.g.s.l.SpringBootLoggingDemoApplication -
+				response Welcome test
+2023-04-16 10:09:28 [http-nio-8080-exec-2] DEBUG c.c.g.s.l.SpringBootLoggingDemoApplication -
+				Request test8
